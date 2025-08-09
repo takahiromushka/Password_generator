@@ -39,3 +39,6 @@ class App:
 #display
 app = App()
 app.window.mainloop()
+app = App()
+app.window.mainloop()
+
